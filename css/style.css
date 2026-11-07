@@ -1,0 +1,12 @@
+.logo{
+    margin: 20px;
+    height: 60px;
+}
+
+.header-flex{
+    display: flex;
+    
+}
+body{
+    background-image: url("imagem/fundo-inicial.webp");
+}
